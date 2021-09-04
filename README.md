@@ -1,2 +1,2 @@
-# LifeRestrat
-another version
+# lifeRestart
+Game Life Restart
